@@ -19,4 +19,4 @@ Hi, I am Stevecv, heres a little about me:
 </table>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Stevecv&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph&bg_color=)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Stevecv&theme=github&bg_color=00000000&color=c8ccce)](https://github.com/ashutosh00710/github-readme-activity-graph)
