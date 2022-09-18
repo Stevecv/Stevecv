@@ -3,11 +3,11 @@
 ---
 
 Hi, I am Stevecv, heres a little about me:
-  - I am a 15 year old ~~developer~~
+  - I am a 15 year old mostly java developer
   
   - I am from the United Kingdom 🇬🇧
 
-  - I still have no idea what I'm doing
+  
 ---
 
 <div align="center">
