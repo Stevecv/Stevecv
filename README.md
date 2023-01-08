@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I am Stevecv, heres a little about me:
+Hi, I am Stevecv. Here's a little about me:
   - I am a 16 year old developer focusing on Java
   
   - I am from the United Kingdom 🇬🇧
@@ -19,4 +19,3 @@ Hi, I am Stevecv, heres a little about me:
 </table>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Stevecv&theme=github&bg_color=00000000&color=c8ccce)](https://github.com/ashutosh00710/github-readme-activity-graph)
