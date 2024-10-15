@@ -19,6 +19,6 @@ Hi, I am Stevecv. Here's a little about me:
   </tr>
 </table>
 
-![Stevecv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevecv&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Stevecv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevecv&theme=radical&show_icons=true&hide_border=true&layout=compact)
 </div>
 
