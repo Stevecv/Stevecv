@@ -3,7 +3,7 @@
 ---
 
 Hi, I am Stevecv. Here's a little about me:
-  - I am a 17 year old developer focusing on Java
+  - I am an 18 year old developer focusing on Java
   - I am from the United Kingdom 🇬🇧
 
   
