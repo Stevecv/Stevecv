@@ -18,7 +18,5 @@ Hi, I am Stevecv. Here's a little about me:
       
   </tr>
 </table>
-
-![Stevecv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevecv&theme=radical&layout=compact&bg_color=00000000&title_color=0f97e9&text_color=c8ccce&icon_color=21d907&hide_border=true)
 </div>
 
